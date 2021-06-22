@@ -1,0 +1,82 @@
+#header_nav{
+	background-color: #F4D597;
+	border-radius: 0;
+	border = 0;
+	height: 96px;
+
+}
+
+#nav_bar_container{
+	margin-top: 9px;
+}
+
+#bs-example-navbar-collapse-1{
+	    margin-top: 10px;
+	    background-color: #EAEEE4;
+
+}
+
+#menu_text{
+text-align: center;
+}
+
+#header_nav{
+	display: block;
+}
+
+#nav_brand{
+	margin-top: -12px;
+	color
+
+}
+
+#nav_btn{
+	    margin-top: 27px;
+    margin-right: 31px;
+
+}
+
+#header-nav{
+background-color: #EAEEE4 ;	
+border-radius: 0;
+	border = 0;
+
+
+}
+
+#header_nav_bar{
+	height: 83px;
+
+}
+
+#collapsable-nav{
+	background-color: #DCE3D2 ;	
+}
+
+#main_title{
+
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding-bottom: 21px;
+    color : #536141;
+
+}
+
+
+
+
+
+@media (min-width: 768px){
+#collapsable-nav{
+	background-color: #EAEEE4 ;	
+  }
+}
+
+
+#text_container{
+	background-color: #C5E6F8 ;
+}
+
+#Beef, #Chicken , #Sushi{
+	margin-bottom: 50px;
+}
